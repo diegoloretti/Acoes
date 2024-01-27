@@ -1,4 +1,4 @@
-Análise de Ações com Streamlit
+### Análise de Ações com Streamlit
 
 ## Descrição
 Este projeto implementa uma aplicação Streamlit para análise de ações financeiras. Utiliza a biblioteca `yfinance` para extrair dados do mercado de ações, `pandas` para manipulação de dados e `Prophet` para realizar previsões futuras. A aplicação permite aos usuários selecionar ações de um conjunto pré-definido, especificar a quantidade de dias para previsão e visualizar dados históricos e previsões futuras.
